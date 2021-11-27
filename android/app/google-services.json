@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64582003187",
+    "project_id": "ritrides-2d5fc",
+    "storage_bucket": "ritrides-2d5fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64582003187:android:432299acb2171fa8ca4a86",
+        "android_client_info": {
+          "package_name": "com.rit.rides.rides_at_rit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64582003187-0vrucc04np0dljg9e0n9st9gsak10kk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT1O7l6YzlkM3F6gTtkW2rOhP1-KHia5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64582003187-0vrucc04np0dljg9e0n9st9gsak10kk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
